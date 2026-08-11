@@ -34,15 +34,15 @@ The first launch installs the one required PDF library in a private `.venv`
 folder. Later launches start directly.
 
 By default, results go beside the PDF in a folder such as
-`Segretin_2026_figures`, with names such as:
+`first.author_year_figures`, with names such as:
 
 ```text
-Segretin_2026_Fig.1.svg
-Segretin_2026_Fig.1.png
-Segretin_2026_Fig.1A.svg
-Segretin_2026_Fig.1A.png
-Segretin_2026_Table_2.svg
-Segretin_2026_Table_2.png
+Sousa-Sanchez_2026_Fig.1.svg
+Sousa-Sanchez_2026_Fig.1.png
+Sousa-Sanchez_2026_Fig.1A.svg
+Sousa-Sanchez_2026_Fig.1A.png
+Sousa-Sanchez_2026_Table_2.svg
+Sousa-Sanchez_2026_Table_2.png
 ```
 
 When the extraction will create more than one file, the tool automatically
